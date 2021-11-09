@@ -16,7 +16,7 @@ As a Java developer i have to know about Spring Framework and its projects.
 - <img height="16px" class="icon" src=https://spring.io/images/projects/spring-data-79cc203ed8c54191215a60f9e5dc638f.svg alt="Spring Data Logo"/> Spring Data
 - <img height="16px" class="icon" src=https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg alt="Spring Security Logo"/> Spring Security
 
-I'm also aware of frameworks like [JUnit 4/5](https://junit.org/junit5/) with [Mockito](https://site.mockito.org/) for testing, [Apache Log4j2](https://logging.apache.org/log4j/2.x/) for logging, [Google Guava](https://github.com/google/guava) libraries, and a [Project Lombok](https://projectlombok.org/).
+I'm also aware of frameworks like <a href="https://junit.org/junit5" target="_blank">JUnit 4/5</a> with <a href="https://site.mockito.org/" target="_blank">Mockito</a> for testing, <a href="https://logging.apache.org/log4j/2.x/" target="_blank"> Log4j2 </a> for logging, <a href="https://github.com/google/guava" target="_blank">Google Guava</a> libraries, and the <a href="https://projectlombok.org/" target="_blank"> Project Lombok </a>.
 
 ### Python
 
