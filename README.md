@@ -12,9 +12,9 @@ Primarily i'm a Java Web Developer, but i have some experience with Python Web D
 
 As a Java developer i have to know about Spring Framework and its projects.
 
-- <img height="16px" class="icon" src=https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg alt="Spring Boot Logo"/> Spring Boot
-- <img height="16px" class="icon" src=https://spring.io/images/projects/spring-data-79cc203ed8c54191215a60f9e5dc638f.svg alt="Spring Data Logo"/> Spring Data
-- <img height="16px" class="icon" src=https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg alt="Spring Security Logo"/> Spring Security
+- <img height="16px" class="icon" src="/photos/spring-boot-logo.svg" alt="Spring Boot Logo"/> Spring Boot
+- <img height="16px" class="icon" src="/photos/spring-data-logo.svg" alt="Spring Data Logo"/> Spring Data
+- <img height="16px" class="icon" src="/photos/spring-security-logo.svg" alt="Spring Security Logo"/> Spring Security
 
 I'm also aware of frameworks like [JUnit 4/5](https://junit.org/junit5) with [Mockito](https://site.mockito.org/) for testing, [Log4j2](https://logging.apache.org/log4j/2.x/) for logging, [Google Guava](https://github.com/google/guava) libraries, and the [Project Lombok](https://projectlombok.org/) for boilerplate code.
 
